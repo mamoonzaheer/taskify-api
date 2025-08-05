@@ -21,7 +21,7 @@ Taskify is a simple RESTful API built with FastAPI to manage tasks with prioriti
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/taskify-api.git
+   git clone https://github.com/mamoonzaheer/taskify-api.git
    cd taskify-api
    ```
 
